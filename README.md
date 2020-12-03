@@ -15,7 +15,7 @@
 <p> 
 * 💼 Discover my [Curriculum Vitae](https://www.linkedin.com/in/cristianrubert/)<br/>
 * 🚧 you find me [dev.to](https://dev.to/r1pl3x) <br/>
-* 📫 Contact me [@realme](https://twitter.com/r1pl3x)
+* 📫 Contact me [@realme](https://twitter.com/cristianrubert)
 </p>
 
 ## My skills
