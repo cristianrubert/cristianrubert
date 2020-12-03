@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**cristianrubert1/cristianrubert1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hi there 👋</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>
+<a href="https://dev.to/r1pl3x"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/cristian_rubert"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/r1pl3x"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/cristianrubert/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
+
+<p> 📚 Learning: Actually, I learned Cybersecurity Specialization Course </p>
+<p> 👨‍💻 I'm Cristian Rubert. SysAdmin, I am passionate about computing, always learning.</p>
+
+<p> 
+* 💼 Discover my [Curriculum Vitae](https://www.linkedin.com/in/cristianrubert/)<br/>
+* 🚧 you find me [dev.to](https://dev.to/r1pl3x) <br/>
+* 📫 Contact me [@realme](https://twitter.com/r1pl3x)
+</p>
+
+## My skills
+<p align="center">
+  <img align="center" alt="logo" src="https://github.com/R1pl3x/R1pl3x/blob/master/icon/pack.jpg" />
+</p>
