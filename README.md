@@ -19,13 +19,6 @@
 * 📫 Contact me [@realme](https://twitter.com/cristian_rubert)
 </p>
 
-## My skills
-<p align="center">
-
-<!-- <img align="center" alt="logo" src="https://github.com/cristianrubert/cristianrubert/blob/master/icon/pack.jpg" /> -->
-  
-</p>
-
 # Awesome Sysadmin
 A curated list of amazingly awesome open source sysadmin resources inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php)
 
