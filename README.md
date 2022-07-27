@@ -19,7 +19,9 @@
 * 📫 Contact me [@realme](https://twitter.com/cristian_rubert)
 </p>
 
-//## My skills
+## My skills
 <p align="center">
-  <img align="center" alt="logo" src="https://github.com/cristianrubert/cristianrubert/blob/master/icon/pack.jpg" />
-</p>//
+
+<!-- <img align="center" alt="logo" src="https://github.com/cristianrubert/cristianrubert/blob/master/icon/pack.jpg" /> -->
+  
+</p>
