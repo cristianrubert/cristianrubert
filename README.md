@@ -21,5 +21,5 @@
 
 ## My skills
 <p align="center">
-  <img align="center" alt="logo" src="https://github.com/R1pl3x/R1pl3x/blob/master/icon/pack.jpg" />
+  <img align="center" alt="logo" src="https://github.com/cristianrubert/cristianrubert/blob/master/icon/pack.jpg" />
 </p>
