@@ -12,7 +12,7 @@
 <p> 👨‍💻 I'm Cristian Rubert. SysAdmin, I am passionate about computing, always learning.</p>
 
 * 👉 https://cristianrubert.github.io/
-* 
+
 <p> 
 * 💼 Discover my [Curriculum Vitae](https://www.linkedin.com/in/cristianrubert/)<br/>
 * 🚧 you find me [dev.to](https://dev.to/r1pl3x) <br/>
